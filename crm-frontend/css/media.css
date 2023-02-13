@@ -1,0 +1,94 @@
+@media (max-width: 798px) {
+  .mainBlok {
+    overflow-x: scroll;
+}
+
+  .clientID {
+    width: 80px;
+  }
+
+  .creationOfDate {
+    width: 98px;
+    padding-right: 0;
+  }
+
+  .lastChanes {
+    width: 98px;
+    padding-right: 0;
+  }
+
+  .contacts {
+    width: 130px;
+  }
+
+  .actions {
+    width: 105px;
+  }
+
+  .actions-chanes {
+    margin-right: 0;
+    margin-bottom: 5px;
+  }
+}
+
+@media (max-width: 520px) {
+  .heder {
+    height: 40px;
+    justify-content: center;
+  }
+
+  .logo {
+    width: 24px;
+    height: 24px;
+    margin-right: 0;
+  }
+
+  .inputHeder {
+    display: none;
+  }
+
+  .modal-dialog_new,
+  .modal-dialog,
+  .modal-dialog-delete {
+    width: 300px;
+  }
+
+  .modal-header {
+    padding: 0 15px;
+  }
+
+  .modal-form,
+  .modal-form_new {
+    padding: 0 15px;
+  }
+
+  .modal-form_contacts {
+    padding: 0 15px;
+  }
+
+  .choices {
+    width: 110px;
+    height: 37px;
+  }
+
+  .form-control {
+    min-width: 133px;
+  }
+
+  .choices__inner {
+    width: 110px;
+  }
+
+  .modal-dscr {
+    padding: 0 20px;
+    padding-top: 11px;
+  }
+
+  .mainBlok {
+    padding: 40px 10px 0 10px;
+  }
+
+  .table {
+    width: 768px;
+  }
+}
